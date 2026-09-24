@@ -1,0 +1,14 @@
+{
+  "brand": "CLD Technology",
+  "organization": "Harbor Works",
+  "actors": [
+    {"id": "ops", "name": "Casey · People Ops", "role": "operator"},
+    {"id": "manager-jordan", "name": "Jordan · Engineering manager", "role": "manager"},
+    {"id": "manager-sam", "name": "Sam · Operations manager", "role": "manager"},
+    {"id": "assistant", "name": "Workflow assistant", "role": "agent"}
+  ],
+  "departments": {
+    "Engineering": {"manager": "manager-jordan", "access": ["Code repository", "Engineering workspace"]},
+    "Operations": {"manager": "manager-sam", "access": ["Operations workspace", "Service desk"]}
+  }
+}
