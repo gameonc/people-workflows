@@ -24,9 +24,9 @@ Open the activity trail and download the JSON case evidence. Refresh the page. T
 
 ## Interview claims to keep precise
 
-- This is a tested local prototype built with AI coding assistance under Cady’s direction, not an existing customer deployment.
+- This is a tested local prototype built with AI coding assistance under Cody’s direction, not an existing customer deployment.
 - HRIS, Slack, email, and provisioning calls are simulated. No message or account was created.
-- The 25 tests and browser walkthrough are demonstrated evidence; customer savings and production reliability have not been measured.
+- The 31 tests and browser walkthrough are demonstrated evidence; customer savings and production reliability have not been measured.
 - AI selects or explains information; deterministic rules control approvals and state changes.
 - CLD Technology is the presentation brand. No new company tenure or legal-entity relationship is asserted by this demo.
 
