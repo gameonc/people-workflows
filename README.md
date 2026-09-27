@@ -1,6 +1,6 @@
 # People Workflows
 
-A runnable local portfolio demo by **Cady Lalanne / CLD Technology**: onboarding, assigned-manager approval, a deliberately failed delivery, retry, employee acknowledgement, and an audit trail.
+A runnable local portfolio demo by **Cody Lalanne / CLD Technology**: onboarding, assigned-manager approval, a deliberately failed delivery, retry, employee acknowledgement, and an audit trail.
 
 Everything in this package is fictional. No account, API key, HR system, signup form, or cloud service is required. No email is sent and no access is provisioned.
 
@@ -53,3 +53,5 @@ Declined cases stay blocked for review; edit-and-resubmit is not implemented. Re
 [Verification notes](docs/verification.md) · [Test output](docs/test-results.txt)
 
 ![Fictional onboarding demonstration](docs/screenshot.png)
+
+[Interview proof map](docs/proof-map.md) explains which test backs each demonstration and what remains simulated.
